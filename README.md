@@ -1,6 +1,6 @@
 # MATLAB project: Predator Prey Dynamics
 
-This file contains the MATLAB scripts I wrote for a project on studying the usefulness and limitations of the Lotka-Volterra model.
+This folder contains the MATLAB scripts I wrote for a project on studying the usefulness and limitations of the Lotka-Volterra model.
 
 ----------------------------------------------------Files-------------------------------------------------------
 Fur_Pelts_1900_to_1920.xlsx = Raw data collected by Hydson Bay Company on hare and lynx populations from 1900 to 1920.
