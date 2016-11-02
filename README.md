@@ -13,3 +13,4 @@ lotka_volterra.m = MATLAB function to simulate a 3-parameter Lotka-Volterra mode
 
 lotka_volterra_param.m = MATLAB function to simulate a 3-parameter Lotka-Volterra model that accepts externally specified parameter
 
+SysMIC_MiniProject_Report = Report of all the simulations I carried out using the predator-prey model.
